@@ -52,6 +52,7 @@ else (GUROBI_INCLUDE_DIR)
             gurobi80
             gurobi81
             gurobi90
+            gurobi91
             PATHS "$ENV{GUROBI_HOME}/lib"
             )
 
